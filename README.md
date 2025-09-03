@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# blend:it Frontend
+
+https://github.com/user-attachments/assets/8e9602e7-9598-4052-95df-3d85d0c96deb
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
